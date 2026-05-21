@@ -1,0 +1,46 @@
+{
+  "company": {
+    "name": "Acme B2B Solutions",
+    "tagline": "Connect, automate, and grow your business with modern B2B workflows.",
+    "description": "A simple B2B website powered by JSON-driven content. Build trust with enterprise customers, showcase services, and deliver a strong commercial value proposition."
+  },
+  "services": [
+    {
+      "title": "Supply Chain Automation",
+      "subtitle": "Streamline order processing and logistics.",
+      "description": "Automate purchase orders, inventory tracking, and supplier collaboration with a single platform.",
+      "icon": "⚙️"
+    },
+    {
+      "title": "Customer Portal",
+      "subtitle": "Give clients secure self-service access.",
+      "description": "Offer quotes, order history, invoices, and project updates in one branded portal.",
+      "icon": "🔐"
+    },
+    {
+      "title": "Analytics & Reporting",
+      "subtitle": "Make better decisions with live data.",
+      "description": "Track revenue, pipeline, and operational KPIs with dashboards built for enterprise teams.",
+      "icon": "📊"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Global Logistics Co.",
+      "role": "Supply Chain Partner"
+    },
+    {
+      "name": "Bright Retail Group",
+      "role": "Wholesale Distributor"
+    },
+    {
+      "name": "Enterprise Tech Labs",
+      "role": "Strategic Supplier"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to scale your B2B operations?",
+    "email": "sales@acme-b2b.com",
+    "phone": "+1 (555) 123-4567"
+  }
+}

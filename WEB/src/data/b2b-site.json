@@ -1,0 +1,166 @@
+{
+  "en": {
+    "langName": "English",
+    "siteName": "Acme Laptop Parts",
+    "hero": {
+      "title": "B2B Inquiry Portal for Laptop Components",
+      "subtitle": "Sell parts and accessories with structured product data for enterprise buyers.",
+      "description": "Browse parts by manufacturer item number, specification, or laptop model, then submit a commercial inquiry in your preferred language.",
+      "cta": "View Products"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "contact": "Contact",
+      "language": "中文"
+    },
+    "services": [
+      {
+        "title": "Part-based Catalog",
+        "subtitle": "Precise part number and specs.",
+        "description": "Display inventory by part number, technical parameters, and compatibility details for OEM components.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Model-based Search",
+        "subtitle": "Find parts by laptop model.",
+        "description": "Let buyers search by model names like HP 840 G3 BATTERY to find compatible replacements quickly.",
+        "icon": "💻"
+      },
+      {
+        "title": "Multi-language Inquiry",
+        "subtitle": "Chinese and English support.",
+        "description": "A bilingual site for international B2B audiences with an easy inquiry workflow.",
+        "icon": "🌐"
+      }
+    ],
+    "products": {
+      "partBasedTitle": "Parts by Number & Specification",
+      "partBasedDescription": "Exact part numbers with parameters allow buyers to confirm compatibility before inquiry.",
+      "modelBasedTitle": "Parts by Computer Model",
+      "modelBasedDescription": "Search using model names like HP 840 G3 BATTERY and match parts instantly.",
+      "items": [
+        {
+          "type": "part",
+          "title": "HP 840 G3 Battery",
+          "partNumber": "807070-001",
+          "parameters": ["Li-ion 44Wh", "11.4V", "6-cell"],
+          "stock": "120 pcs",
+          "note": "Original-equivalent replacement"
+        },
+        {
+          "type": "part",
+          "title": "Dell Latitude 5490 Keyboard",
+          "partNumber": "0WKKP9",
+          "parameters": ["Backlit", "US layout", "USB-C connector"],
+          "stock": "56 pcs",
+          "note": "OEM compatible"
+        },
+        {
+          "type": "model",
+          "title": "HP 840 G3 Battery",
+          "model": "HP 840 G3",
+          "description": "Battery for HP 840 G3 notebooks with stable runtime and reliable performance.",
+          "compatibility": ["HP 840 G3", "HP 840 G4"],
+          "stock": "120 pcs"
+        },
+        {
+          "type": "model",
+          "title": "Lenovo ThinkPad X1 Carbon Adapter",
+          "model": "ThinkPad X1 Carbon Gen 6",
+          "description": "Compatible power adapter for ThinkPad X1 Carbon Gen 6 laptops.",
+          "compatibility": ["X1 Carbon Gen 6", "X1 Carbon Gen 5"],
+          "stock": "78 pcs"
+        }
+      ]
+    },
+    "contact": {
+      "headline": "Submit an Inquiry",
+      "description": "Send us product codes, model names, quantity, and delivery requirements for a fast B2B quote.",
+      "email": "sales@acme-b2b.com",
+      "phone": "+1 (555) 123-4567"
+    }
+  },
+  "zh": {
+    "langName": "中文",
+    "siteName": "Acme 笔记本电脑零件",
+    "hero": {
+      "title": "笔记本电脑零件 B2B 询盘平台",
+      "subtitle": "为企业采购提供零件编号、参数和电脑型号两种查询方式。",
+      "description": "通过零件编码或机型名称查找备件，支持多语言展示和询盘流程。",
+      "cta": "查看产品"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "产品",
+      "contact": "联系我们",
+      "language": "English"
+    },
+    "services": [
+      {
+        "title": "按零件编号查询",
+        "subtitle": "提供精确的零件编码与参数。",
+        "description": "按零件编号展示电池、键盘、适配器等配件的详细规格和库存。",
+        "icon": "🧩"
+      },
+      {
+        "title": "按电脑型号查询",
+        "subtitle": "支持机型名称快速匹配。",
+        "description": "例如 HP 840 G3 BATTERY、ThinkPad X1 Carbon 等机型，可直接定位兼容配件。",
+        "icon": "💻"
+      },
+      {
+        "title": "多语言询盘",
+        "subtitle": "中文、英文双语支持。",
+        "description": "满足国内外客户的采购需求，提升企业客户沟通效率。",
+        "icon": "🌐"
+      }
+    ],
+    "products": {
+      "partBasedTitle": "零件编号 & 参数",
+      "partBasedDescription": "通过零件编号和参数确认兼容性后再进行采购询盘。",
+      "modelBasedTitle": "电脑型号查询",
+      "modelBasedDescription": "输入机型名称，如 HP 840 G3 BATTERY，快速匹配对应备件。",
+      "items": [
+        {
+          "type": "part",
+          "title": "HP 840 G3 电池",
+          "partNumber": "807070-001",
+          "parameters": ["锂电 44Wh", "11.4V", "6 节"],
+          "stock": "120 件",
+          "note": "原装等效替换件"
+        },
+        {
+          "type": "part",
+          "title": "戴尔 Latitude 5490 键盘",
+          "partNumber": "0WKKP9",
+          "parameters": ["背光", "美式布局", "USB-C 接口"],
+          "stock": "56 件",
+          "note": "OEM 兼容"
+        },
+        {
+          "type": "model",
+          "title": "HP 840 G3 电池",
+          "model": "HP 840 G3",
+          "description": "适用于 HP 840 G3 笔记本的电池，续航稳定可靠。",
+          "compatibility": ["HP 840 G3", "HP 840 G4"],
+          "stock": "120 件"
+        },
+        {
+          "type": "model",
+          "title": "ThinkPad X1 Carbon 适配器",
+          "model": "ThinkPad X1 Carbon Gen 6",
+          "description": "适用于 ThinkPad X1 Carbon Gen 6 的电源适配器。",
+          "compatibility": ["X1 Carbon Gen 6", "X1 Carbon Gen 5"],
+          "stock": "78 件"
+        }
+      ]
+    },
+    "contact": {
+      "headline": "提交询盘",
+      "description": "请填写零件编号、机型、数量和交付要求，我们会尽快为您报价。",
+      "email": "sales@acme-b2b.com",
+      "phone": "+1 (555) 123-4567"
+    }
+  }
+}
